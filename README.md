@@ -69,4 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 "# youtube_clone-react" 
 
 ## See preview of app 
-![image](https://github.com/axaysushir/react_lyrics_search_app/blob/master/Picture5.png)
+![image](https://github.com/axaysushir/youtube_clone-react/blob/master/Picture1.png)
